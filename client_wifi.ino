@@ -8,7 +8,7 @@ Description of AT commands used
 for communication with the esp8266
 can be found here:
 https://github.com/espressif/ESP8266_AT/wiki/basic_at_0019000902
-/*
+*/
 
 #include <OneWire.h>
 #include <ArduinoJson.h>  
